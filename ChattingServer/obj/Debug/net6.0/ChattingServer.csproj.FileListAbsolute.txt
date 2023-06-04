@@ -1,0 +1,15 @@
+D:\Jirik-work\C#\workspace\2022-23\ChattingServer\ChattingServer\bin\Debug\net6.0\ChattingServer.exe
+D:\Jirik-work\C#\workspace\2022-23\ChattingServer\ChattingServer\bin\Debug\net6.0\ChattingServer.deps.json
+D:\Jirik-work\C#\workspace\2022-23\ChattingServer\ChattingServer\bin\Debug\net6.0\ChattingServer.runtimeconfig.json
+D:\Jirik-work\C#\workspace\2022-23\ChattingServer\ChattingServer\bin\Debug\net6.0\ChattingServer.dll
+D:\Jirik-work\C#\workspace\2022-23\ChattingServer\ChattingServer\bin\Debug\net6.0\ChattingServer.pdb
+D:\Jirik-work\C#\workspace\2022-23\ChattingServer\ChattingServer\obj\Debug\net6.0\ChattingServer.csproj.AssemblyReference.cache
+D:\Jirik-work\C#\workspace\2022-23\ChattingServer\ChattingServer\obj\Debug\net6.0\ChattingServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jirik-work\C#\workspace\2022-23\ChattingServer\ChattingServer\obj\Debug\net6.0\ChattingServer.AssemblyInfoInputs.cache
+D:\Jirik-work\C#\workspace\2022-23\ChattingServer\ChattingServer\obj\Debug\net6.0\ChattingServer.AssemblyInfo.cs
+D:\Jirik-work\C#\workspace\2022-23\ChattingServer\ChattingServer\obj\Debug\net6.0\ChattingServer.csproj.CoreCompileInputs.cache
+D:\Jirik-work\C#\workspace\2022-23\ChattingServer\ChattingServer\obj\Debug\net6.0\ChattingServer.dll
+D:\Jirik-work\C#\workspace\2022-23\ChattingServer\ChattingServer\obj\Debug\net6.0\refint\ChattingServer.dll
+D:\Jirik-work\C#\workspace\2022-23\ChattingServer\ChattingServer\obj\Debug\net6.0\ChattingServer.pdb
+D:\Jirik-work\C#\workspace\2022-23\ChattingServer\ChattingServer\obj\Debug\net6.0\ChattingServer.genruntimeconfig.cache
+D:\Jirik-work\C#\workspace\2022-23\ChattingServer\ChattingServer\obj\Debug\net6.0\ref\ChattingServer.dll
